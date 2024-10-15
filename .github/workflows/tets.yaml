@@ -7,4 +7,5 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - name: Mensaje
-        run: echo "Rodrigo Del Angel Gerardo - Matrícula: 20210658 - Décimo A"
+        run: |
+          echo "Rodrigo Del Angel Gerardo - Matrícula: 20210658 - Décimo A"
